@@ -1,0 +1,2 @@
+module Shiyan2 {
+}
